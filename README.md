@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/romanop/cicdtest/_apis/build/status/RomainPisters.pipelines-go)](https://dev.azure.com/romanop/cicdtest/_build/latest?definitionId=1)
 
 # Contributing
 
